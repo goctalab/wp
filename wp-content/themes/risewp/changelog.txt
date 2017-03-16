@@ -1,0 +1,28 @@
+== Changelog ==
+
+= 1.1.6 =
+* Fix: background image glitch
+
+= 1.1.5 =
+* Fix: fixed issue where Rise Post Format Options were not showing in the theme customizer
+
+= 1.1.4 =
+* Fix: minor bug fixes with admin pages
+
+= 1.1.3 =
+* Update: updated to current WordPress repository standards based on theme review
+
+= 1.0.19 =
+* Update: updated to current WordPress repository standards based on theme review
+
+= 1.0.17 =
+* Update: styled the 404 and Search page templates to match theme styles 
+
+= 1.0.16 =
+* Fix: removed http from Skype social icons
+
+= 1.0.14 =
+* Update: Tested with WordPress 4.5, Updating Font Awesome icons to 4.6, Added Snapchat and Weibo social icon options
+
+= 1.0.0 =
+* New Theme!

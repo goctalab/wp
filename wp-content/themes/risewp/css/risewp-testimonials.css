@@ -1,0 +1,29 @@
+.home-testimonial .testimonial img.risewp-testimonial-img { 
+	width: 80px;
+	height: 80px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	margin: -40px auto 0;
+	display: block;
+}
+
+.home-testimonial .testimonial h3 { 
+	font-size: 14px;
+	line-height: 18px;
+	text-align: center;	 
+	margin-bottom: 2px;
+	margin-top: 10px;  
+}
+
+.home-testimonial .testimonial p {  
+	background: #ffffff;
+	padding: 15px 15px 55px 15px;
+	font-size: 13px;
+	line-height: 20px;
+	font-style: italic;
+	margin: 0;
+}
+
+.page-testimonial {
+	margin-bottom:25px; 
+}
